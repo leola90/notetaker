@@ -2,7 +2,8 @@ var notesData =
 [
     {
     "title": "Test Title",
-    "text": "Test text"
+    "text": "Test text",
+    "id": "Test id"
     }
 ];
 
